@@ -13,7 +13,7 @@ This is the place where I do some open source projects and learn for something n
 </p>
 
 
-## Find me around the web 🌐
+## Find me around the web 📫
 
 - [Github](https://github.com/rizqyfahmi)
 - [LinkedIn](https://linkedin.com/in/rizqyfahmi)
@@ -26,9 +26,9 @@ This is the place where I do some open source projects and learn for something n
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=rizqyfahmi&theme=gruvbox&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
-## Most used languages
+## Most used languages 📈
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizqyfahmi&theme=gruvbox&layout=compact&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## Support
+## Support ☕
 <p><a href="https://www.buymeacoffee.com/rizqyfahmi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/rizqyfahmi" /></a></p>
