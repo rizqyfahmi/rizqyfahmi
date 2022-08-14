@@ -13,11 +13,10 @@
 </p>
 
 
-## Find me around the web 📫
+## Find me 📫
 
 - [Github](https://github.com/rizqyfahmi)
 - [LinkedIn](https://linkedin.com/in/rizqyfahmi)
-- [Instagram](https://instagram.com/rizqyfahmi)
 
 
 ## Github stats ⚡
