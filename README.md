@@ -5,19 +5,22 @@
 
 This is the place where I do some open source projects and learn for something new
 
-- 🔭 I’m currently working on **something cool!**
-- 🌱 &nbsp;I’m currently learning **Flutter, Go**
-- 💬 &nbsp;Ask me about **React Native, Flutter, Kotlin, Swift**
-- 📫 Reach me <a href="mailto:rizqyfahmi@gmail.com">here</a>
-- ⚡ &nbsp;Fun fact: I :heart: :cat:s
-
-**Connect with me**
-<p align="left">
-<a href="https://linkedin.com/in/rizqyfahmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rizqyfahmi" height="30" width="40" /></a>
-<a href="https://instagram.com/rizqyfahmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rizqyfahmi" height="30" width="40" /></a>
+## Skills 🚀
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,html,jquery,js,ts,php,laravel,nodejs,go,dart,flutter,java,swift,kotlin,gradle,express,react,nextjs,redux,css,sass,bootstrap,tailwindcss,redis,mongodb,postgres,mysql,jest"/>
+  </a>
 </p>
 
-**Github stats**
+
+## Find me around the web 🌐
+
+- [Github](https://github.com/rizqyfahmi)
+- [LinkedIn](https://linkedin.com/in/rizqyfahmi)
+- [Instagram](https://instagram.com/rizqyfahmi)
+
+
+## Github stats ⚡
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rizqyfahmi&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)<br/>
 
