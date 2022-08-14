@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=rizqyfahmi&color=brightgreen)<br/><br/>
 [![trophy](https://github-profile-trophy.vercel.app/?username=rizqyfahmi&theme=gitdimmed&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-This is the place where I do some open source projects and learn for something new
+### This is the place where I do some open source projects and learn for something new
 
 ## Skills 🚀
 <p align="center">
